@@ -1,1 +1,6 @@
 # fuko_sportracer
+
+CREE UN DOSSIER SE NOMMANT fuko_sportracer 
+ENSUITE AJOUTEZ LES FICHIER DANS LE WINRAR 
+ALLEZ DANS LE CFG ET START LE
+ensure fuko_sportracer
